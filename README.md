@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've a Full StackOverflow Developer from the Land Down Under.
-
-I'm currently a Co-Founder and Head of Development as a brand spanking new Australian startup. 
-We're going to revolutionise how time tracking and timesheets work. Ethically _and_ usefully.
+I'm a veteran Full StackOverflow Architect & Developer from the Land Down Under.
 
 I build software with:
 
@@ -27,8 +24,5 @@ I build software with:
 - VueJS
 - SQL Server
 - Azure
-- Azure Functions
 - PHP
 - WordPress
-
-Updated: 17 july 2020
