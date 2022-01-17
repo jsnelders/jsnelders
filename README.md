@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 I'm a veteran Full StackOverflow Developer & Architect from the Land Down Under.
 
-[17 Jan 2022] I have removed all public repositories because I'm now being spammed on my GitHub email.
+[17 Jan 2022] I have made private some public repositories because I'm now being spammed on my GitHub email.  
+I don't have the time or desire to deal with this crap.
 
 I build software with:
 
