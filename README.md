@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a veteran Full StackOverflow Architect & Developer from the Land Down Under.
+I'm a veteran Full StackOverflow Developer & Architect from the Land Down Under.
+
+[17 Jan 2022] I have removed all public repositories because I'm now being spammed on my GitHub email.
 
 I build software with:
 
@@ -24,5 +26,3 @@ I build software with:
 - VueJS
 - SQL Server
 - Azure
-- PHP
-- WordPress
