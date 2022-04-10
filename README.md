@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Full StackOverflow Developer & Architect from the Land Down Under.
+I'm a Full StackOverflow Developer & Architect from the Land Down Under.
 
 I build software with:
 
