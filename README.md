@@ -1,7 +1,7 @@
 ### G'Day! 👋
 
 <!--
-**jsnelders/jsnelders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jsnelders/jsnelders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile, with nearly 2 and a half decades in the industry.
 
 Here are some ideas to get you started:
 
