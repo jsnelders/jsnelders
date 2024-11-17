@@ -1,7 +1,7 @@
 ### G'Day! 👋
 
 <!--
-**jsnelders/jsnelders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile, with nearly 2 and a half decades in the industry.
+**jsnelders/jsnelders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Full StackOverflow Developer & Architect from the Land Down Under.
+I'm a full-stack developer (the old school kind) & architect from the Australia with nearly 2 and a half decades in the industry.
 
 I build software with:
 
